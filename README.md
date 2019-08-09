@@ -13,14 +13,14 @@ More sources
 GitHub Flow:
 https://guides.github.com/introduction/flow/
 
-GitHub Guides
+GitHub Guides:
 https://guides.github.com/
 
-YouTube
+YouTube:
 https://www.youtube.com/githubguides
 
-GitHub Lab
+GitHub Lab:
 https://lab.github.com/
 
-GitHub Marketplace
+GitHub Marketplace:
 https://github.com/explore
