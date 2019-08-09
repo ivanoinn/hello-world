@@ -10,7 +10,7 @@ https://guides.github.com/activities/hello-world/
 
 More sources
 
-Introduction:
+GitHub Flow:
 https://guides.github.com/introduction/flow/
 
 GitHub Guides
